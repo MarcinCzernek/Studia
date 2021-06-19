@@ -1,0 +1,5 @@
+com\example\myspa\model\User.class
+com\example\myspa\services\UserService.class
+com\example\myspa\controllers\UserController.class
+com\example\myspa\McspaApplication.class
+com\example\myspa\repositories\UserRepository.class
